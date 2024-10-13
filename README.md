@@ -15,7 +15,7 @@
             <br><br><br>
             <input type="password" placeholder="Password">
             <br><br><br>
-           <button type="button"><strong>SIGN UP</strong></button>
+           <button type="submit"><strong>SIGN UP</strong></button>
          </form>
         </div>
    </body>
