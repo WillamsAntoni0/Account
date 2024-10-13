@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <link rel="stylesheet" href="tela.css">
+<script>window.alert('Preencha os campos para criação da conta.')</script>
 </head>
 <body>
     <div class="tela">
